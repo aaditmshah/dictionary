@@ -44,7 +44,7 @@ o.define({
     _x: 0
 });
 
-for (var p in o) if (o.hasOwnProprty(p)) console.log(p);
+for (var p in o) if (o.hasOwnProperty(p)) console.log(p);
 
 console.log(o.x);
 ```
