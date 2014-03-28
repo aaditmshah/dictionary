@@ -1,18 +1,18 @@
 {
     "name": "dictionary",
     "description": "Defining properties on objects in JavaScript made easy.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": ["dictionary", "object", "define", "defineProperty", "defineProperties"],
-    "author": "Aadit M Shah (http://aaditmshah.github.com/) <aaditmshah@myopera.com>",
+    "author": "Aadit M Shah (http://aaditmshah.github.com/) <aaditmshah@fastmail.fm>",
     "main": "dictionary.js",
     "maintainers": [{
         "name": "Aadit M Shah",
-        "email": "aaditmshah@myopera.com",
+        "email": "aaditmshah@fastmail.fm",
         "web": "http://aaditmshah.github.com/"
     }],
     "contributors": [{
         "name": "Aadit M Shah",
-        "email": "aaditmshah@myopera.com",
+        "email": "aaditmshah@fastmail.fm",
         "web": "http://aaditmshah.github.com/"
     }],
     "bugs": "https://github.com/javascript/dictionary/issues",
