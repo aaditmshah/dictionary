@@ -80,4 +80,4 @@ console.log(o.constNum);
 
 ## That's All Folks ##
 
-If you wish to contribute to this library then fork it on [GitHub](https://github.com/javascript/dictionary) and send me a pull request. If you wish to suggest a feature then send me an [email](mailto:aaditmshah@myopera.com).
+If you wish to contribute to this library then fork it on [GitHub](https://github.com/aaditmshah/dictionary) and send me a pull request. If you wish to suggest a feature then send me an [email](mailto:aaditmshah@myopera.com).

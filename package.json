@@ -1,7 +1,7 @@
 {
     "name": "dictionary",
     "description": "Defining properties on objects in JavaScript made easy.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "keywords": ["dictionary", "object", "define", "defineProperty", "defineProperties"],
     "author": "Aadit M Shah (http://aaditmshah.github.com/) <aaditmshah@fastmail.fm>",
     "main": "dictionary.js",
@@ -15,14 +15,14 @@
         "email": "aaditmshah@fastmail.fm",
         "web": "http://aaditmshah.github.com/"
     }],
-    "bugs": "https://github.com/javascript/dictionary/issues",
+    "bugs": "https://github.com/aaditmshah/dictionary/issues",
     "licenses": [{
         "type": "GPLv3",
         "url": "http://www.gnu.org/copyleft/gpl.html"
     }],
     "repositories": [{
         "type": "git",
-        "url": "https://github.com/javascript/dictionary.git"
+        "url": "https://github.com/aaditmshah/dictionary.git"
     }],
     "dependencies": {}
 }
